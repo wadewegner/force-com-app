@@ -9,7 +9,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/forcedotcom/force-com-buildpack#demo-4"
+      "url": "https://github.com/forcedotcom/force-com-buildpack"
     }
   ],
   "env": {
