@@ -2,8 +2,7 @@
   "name": "Force.com Application",
   "addons": [
     { 
-      "plan": "force-com-alm",
-      "as": "SALESFORCE",
+      "plan": "force-com-prototype",
       "options": { "edition": "EE" }
     }
   ],
