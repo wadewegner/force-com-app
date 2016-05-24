@@ -1,7 +1,11 @@
 {
   "name": "Force.com Application",
   "addons": [
-    "force-com-alm"
+    "force-com-alm",
+    { 
+      "plan": "salesforce",
+      "options": { "edition": "EE" }
+    }
   ],
   "buildpacks": [
     {
