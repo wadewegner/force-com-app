@@ -1,7 +1,10 @@
 {
   "name": "Force.com Application",
   "addons": [
-    "force-com-prototype"
+    {
+      "plan": "force-com-prototype",
+      "options": { "edition": "Enterprise" }
+    }
   ],
   "buildpacks": [
     {
