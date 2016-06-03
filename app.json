@@ -6,9 +6,9 @@
       "options":
       {
         "edition": "Enterprise",
-        "company": "Production",
+        "company": "Staging",
         "signup_email": "nblack@salesforce.com",
-        "username": "production@heroku-salesforce-demo.org"
+        "username": "staging@heroku-salesforce-demo.org"
       }
     }
   ],
