@@ -3,7 +3,13 @@
   "addons": [
     {
       "plan": "force-com-prototype",
-      "options": { "edition": "Enterprise" }
+      "options":
+      {
+        "edition": "Enterprise",
+        "company": "Production",
+        "signup_email": "nblack@salesforce.com",
+        "username": "production@heroku-salesforce-demo.org"
+      }
     }
   ],
   "buildpacks": [
