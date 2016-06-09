@@ -5,7 +5,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/forcedotcom/force-com-buildpack.git#release-phase"
+      "url": "https://github.com/amphro/force-com-buildpack.git#switchtonode"
     }
   ],
   "env": {
