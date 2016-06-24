@@ -4,11 +4,8 @@
     "salesforce"
   ],
   "buildpacks": [
-    {
-      "url":"https://github.com/heroku/heroku-buildpack-jvm-common.git"
-    },
     { 
-      "url": "https://github.com/forcedotcom/force-com-buildpack.git"
+      "url": "https://github.com/heroku/salesforce-buildpack.git"
     }
   ],
   "env": {
