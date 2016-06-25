@@ -1,7 +1,12 @@
 {
   "name": "Force.com Application",
   "addons": [
-    "salesforce"
+    {
+      "plan": "salesforce",
+      "options": {
+         "generate_subdomain": true
+      }
+    }
   ],
   "buildpacks": [
     { 
