@@ -4,7 +4,7 @@
     {
       "plan": "salesforce",
       "options": {
-         "generate_subdomain": true
+         "subdomain": "test-subdomain-addon-001"
       }
     }
   ],
