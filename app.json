@@ -10,7 +10,7 @@
   ],
   "buildpacks": [
     { 
-      "url": "https://github.com/heroku/salesforce-buildpack.git"
+      "url": "https://github.com/heroku/salesforce-buildpack#instance-url-for-soap-api"
     }
   ],
   "env": {
