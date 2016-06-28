@@ -2,7 +2,7 @@
   "name": "Force.com Application",
   "addons": [
     {
-      "plan": "salesforce",
+      "plan": "force-com-prototype",
       "options": {
          "generate_subdomain": true
       }
